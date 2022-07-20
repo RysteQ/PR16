@@ -6,6 +6,7 @@ typedef enum {
     DEC_REGISTER,
     ADD_VALUE_REGISTER,
     SUB_VALUE_REGISTER,
+    
     MUL_VALUE_REGISTER,
     DIV_VALUE_REGISTER,
     MOV_VALUE_REGISTER,
@@ -40,7 +41,7 @@ typedef enum {
 
     PUSH_REGISTER,
     POP_REGISTER,
-    
+
     INTERRUPT_INTERRUPT_CODE
 } Opcodes_T;
 
