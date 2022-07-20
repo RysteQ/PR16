@@ -13,4 +13,4 @@ typedef enum {
     RESTART_APPLICATION
 } Interrupts_T;
 
-#endif _interrupts_h
+#endif
