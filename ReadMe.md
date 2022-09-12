@@ -1,5 +1,9 @@
 # PR16
 
+## WARNING
+**I lost all interest in this project for a while now so yeah I will not update this repository**
+---
+
 PR16 is an emulator for a non existent CPU, my target goals for this emulator is a 6502 like assembly and for it to act like a gameboy if that makes sense.
 
 The following specs are the goals of this emulator:
